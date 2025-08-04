@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashante Aspiring Sys Admin / Cloud Support Engineer !
+<h1>Hi, I'm Ashante Aspiring Sys Admin / Cloud Security Engineer !
 
 <h2>👨‍💻 My Projects:</h2>
 
